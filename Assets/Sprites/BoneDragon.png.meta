@@ -1,0 +1,1759 @@
+fileFormatVersion: 2
+guid: 4eeed05b6960e6e48bc2a5d73c4f5074
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BoneDragon_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1350
+        width: 104
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69656ccae7cc1f649b3c791ff953cac5
+      internalID: 104162074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1351
+        width: 120
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b74d63c0d092b4c96934eca72296aa
+      internalID: -436569689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_3
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1350
+        width: 117
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5334a48905e4bb43853c0ea7a8d6a98
+      internalID: -511865488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1350
+        width: 112
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7f05018773d8f48a94e2e9fb721e5f
+      internalID: -1270043398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_7
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1350
+        width: 106
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa767eede18ed1549994def974013664
+      internalID: -12518137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_8
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1350
+        width: 94
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83f3e92063c9fd4f80f24198862cd41
+      internalID: 1600475119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_9
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1351
+        width: 94
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9f866a63c2cc54a9ec2291cb4c84f4
+      internalID: -1467868524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_10
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1351
+        width: 93
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41569fc4548adc4ca28ace1ae60bae3
+      internalID: -176550723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_11
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1351
+        width: 94
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3cf6d5e737b3546a4375177bf4a64d
+      internalID: 168322569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_12
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1350
+        width: 93
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b82c3ad92cb79a488c007487cad8219
+      internalID: 799586307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_27
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1138
+        width: 188
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3a7f1eb35a1e34abc31cd2e01071a3
+      internalID: -1176740592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1128
+        width: 129
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3be39286a06334b808252b965c4226
+      internalID: -84655054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1128
+        width: 168
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4571b9014f9924d8ad0ddd10edffa6
+      internalID: -1941993897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_33
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1132
+        width: 162
+        height: 146
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe126a86763d3749958fb424c064aac
+      internalID: -2043670242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_35
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1151
+        width: 190
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79465e0423515a245954e4a35ed9a3cd
+      internalID: 1963758069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_36
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1154
+        width: 193
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1ba70de1a2f9c4b88c1323efa4acb3
+      internalID: 1126212434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_37
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1132
+        width: 191
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a206d7283090a4c9c79389747d532e
+      internalID: 1806719676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_38
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1129
+        width: 202
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404729f90b0bf9d41bddec443463f6c9
+      internalID: 234625154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_78
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 940
+        width: 192
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4dfe9d36c7e2a4f98a851219e02ad0
+      internalID: 1532834756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_86
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 939
+        width: 188
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4de711508c2924784586ebd953a36b
+      internalID: -1445279623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_90
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 938
+        width: 200
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85b2da24405f2843b24d0c7042089a3
+      internalID: -71078439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_95
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 954
+        width: 143
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aaa1b337c3f094faee1bdec7a40a96
+      internalID: 1927860675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_96
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 936
+        width: 124
+        height: 150
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9af07812575c4a4b9f4ba225e1258f3
+      internalID: 957172027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_97
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 948
+        width: 125
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae22c055f68e19458062d24e7bff7f6
+      internalID: 1242598564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_99
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 955
+        width: 126
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836750a86db3b814ebfc45d3016216d9
+      internalID: -1567936136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_100
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 965
+        width: 179
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdcaf06fad8b0548ac4ffa5a7ac37ac
+      internalID: 872007332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_137
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 754
+        width: 146
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84ee8bc0c4be3f41bd31fbd09f1246d
+      internalID: 546312068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_139
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 755
+        width: 170
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaf698d3d2cdb0418d0b8d86e54074f
+      internalID: -2137658341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_140
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 754
+        width: 127
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de068e3492dbf774d877d97c234274a7
+      internalID: 208411003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_141
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 734
+        width: 150
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d004346fc2b31b744954aa1d58809852
+      internalID: 1240510036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_143
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 748
+        width: 139
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f43b81296071e4797f51673779188a
+      internalID: -1359466290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_144
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 755
+        width: 173
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411cd0f03188aaf4ca43fc5139848cb4
+      internalID: 1367046472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_146
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 747
+        width: 144
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e179273d1f5a854786971d233eb7db8
+      internalID: -791974411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_174
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 567
+        width: 162
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab95aac44589b3438f7d92ba5a34be0
+      internalID: -220206459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_176
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 564
+        width: 166
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3337ecdaa62694bace57037f52af13
+      internalID: 1026235163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_183
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 567
+        width: 151
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eca7aa4d2253674ebca23f6b2472118
+      internalID: 975235985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_185
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 559
+        width: 153
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df44cd196b928c24893bbf8aef9fac27
+      internalID: -1470434687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_187
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 568
+        width: 120
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02717a78e38ce3d4b80d873956440759
+      internalID: 648752076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_189
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 559
+        width: 145
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f6f31f657b2294394196d0667cc560
+      internalID: -386931708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_191
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 552
+        width: 119
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fa566de60a1e6499ebc47dff01f151
+      internalID: -1477948667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_210
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 380
+        width: 155
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd92ad284b9562948882edb989ebd911
+      internalID: -12168472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_211
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 377
+        width: 139
+        height: 162
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8fef6460b66cd4ea953ecf9418ec18
+      internalID: -1343463328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_215
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 348
+        width: 149
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a816f81a749818a498ee3707d0f4fe0a
+      internalID: -2038892827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_218
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 381
+        width: 142
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cfe2c7f59a3894995e59236ac385de
+      internalID: -921835599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_219
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 378
+        width: 151
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516042019b109be4c92fd2eaec6d241d
+      internalID: 120523338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_222
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 372
+        width: 152
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f07d3c36a097d347b3425b8b723b42d
+      internalID: -1739698062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_238
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 185
+        width: 160
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad8b66ae6dbd3d4caee0113ec0512fc
+      internalID: 842844800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_242
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 195
+        width: 141
+        height: 130
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cf13bb2522687429b2a303a3ac7a6a
+      internalID: -1746495400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_246
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 162
+        width: 155
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e7101aee3aec542a9bc951e028849a
+      internalID: 1354534375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_247
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 192
+        width: 185
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b6ed41882f5624bba7ceecc45b08cb
+      internalID: 1725380258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_248
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 192
+        width: 142
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed73da2b1bd22c644ad5fb51cfdccbcd
+      internalID: -138339681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_259
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 194
+        width: 122
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0c1a303b95c03419ab2b6bbe534f17
+      internalID: 1123907892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_266
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 197
+        width: 104
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d491833e6c80f8a4bb7e2a95a83fe3dc
+      internalID: 812933490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_268
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 199
+        width: 87
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406566d64bfd4464c8e538747897bea1
+      internalID: 707594267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_287
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 24
+        width: 140
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a24ed1c9747c3f49a65da9f7690a974
+      internalID: 1085236579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_289
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 25
+        width: 147
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902a931c1d363d34589afca9d236656e
+      internalID: 1521341616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_291
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 22
+        width: 135
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef94dce03d3ee4f4a9c47e7e56b4ba2c
+      internalID: 233369418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_292
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 20
+        width: 139
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86a3a1bbbc43724093fea36623643bf
+      internalID: 1575117774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_294
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 24
+        width: 153
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59bd1e7f8241604fadacd912350be5c
+      internalID: -1335139988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_295
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 20
+        width: 120
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a81ffbb702222c4ebd588867b075a06
+      internalID: 1007910966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneDragon_296
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 22
+        width: 141
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a085dd2a2cc402447b34c97ff5786eb5
+      internalID: 1068645204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BoneDragon_180: -1724356682
+      BoneDragon_283: 509995825
+      BoneDragon_236: -615264961
+      BoneDragon_254: -222603541
+      BoneDragon_161: -46880347
+      BoneDragon_41: -1916607526
+      BoneDragon_62: -2072237936
+      BoneDragon_17: -410625777
+      BoneDragon_86: -1445279623
+      BoneDragon_160: 1385792730
+      BoneDragon_38: 234625154
+      BoneDragon_50: -791179935
+      BoneDragon_275: -702176500
+      BoneDragon_168: -1491518753
+      BoneDragon_229: -307641293
+      BoneDragon_118: -729789096
+      BoneDragon_308: -114885973
+      BoneDragon_316: -485984598
+      BoneDragon_222: -1739698062
+      BoneDragon_49: 1399245288
+      BoneDragon_210: -12168472
+      BoneDragon_220: 335582881
+      BoneDragon_4: 1115549901
+      BoneDragon_251: -431006176
+      BoneDragon_85: -704057277
+      BoneDragon_138: 2103807863
+      BoneDragon_23: -741925734
+      BoneDragon_306: -1337514791
+      BoneDragon_153: 2110642501
+      BoneDragon_253: 1199685431
+      BoneDragon_278: 1515932478
+      BoneDragon_96: 957172027
+      BoneDragon_154: -199501984
+      BoneDragon_181: 1785899215
+      BoneDragon_58: 2127281940
+      BoneDragon_205: 228638482
+      BoneDragon_132: -933022719
+      BoneDragon_215: -2038892827
+      BoneDragon_302: -641107511
+      BoneDragon_137: 546312068
+      BoneDragon_189: -386931708
+      BoneDragon_84: -65549334
+      BoneDragon_212: -582955515
+      BoneDragon_327: 368949984
+      BoneDragon_198: 932705012
+      BoneDragon_61: -159291583
+      BoneDragon_290: -2018286530
+      BoneDragon_82: -485724140
+      BoneDragon_267: -171392619
+      BoneDragon_55: 519874695
+      BoneDragon_135: 1293332056
+      BoneDragon_224: 33272929
+      BoneDragon_313: -1441480365
+      BoneDragon_330: -2065903643
+      BoneDragon_111: -1655328582
+      BoneDragon_66: -676496320
+      BoneDragon_238: 842844800
+      BoneDragon_90: -71078439
+      BoneDragon_234: 281172
+      BoneDragon_322: -1712603382
+      BoneDragon_167: 180721393
+      BoneDragon_101: 1022947101
+      BoneDragon_59: -112838024
+      BoneDragon_16: -508991355
+      BoneDragon_162: 1526276030
+      BoneDragon_164: 398062134
+      BoneDragon_108: -328352039
+      BoneDragon_304: -1346320088
+      BoneDragon_116: 1385207014
+      BoneDragon_159: -1067622516
+      BoneDragon_110: 684173154
+      BoneDragon_258: -2061400002
+      BoneDragon_115: 1897958798
+      BoneDragon_166: -447832243
+      BoneDragon_288: 620190287
+      BoneDragon_311: 888075389
+      BoneDragon_78: 1532834756
+      BoneDragon_39: -1534145068
+      BoneDragon_75: -901487336
+      BoneDragon_270: -2050445373
+      BoneDragon_34: -1191601514
+      BoneDragon_227: -728022548
+      BoneDragon_143: -1359466290
+      BoneDragon_94: -259731122
+      BoneDragon_175: -494130968
+      BoneDragon_216: 1548089215
+      BoneDragon_326: -2057135418
+      BoneDragon_292: 1575117774
+      BoneDragon_225: 465517287
+      BoneDragon_18: -68791427
+      BoneDragon_144: 1367046472
+      BoneDragon_231: -2077335606
+      BoneDragon_245: 1615175161
+      BoneDragon_150: 1250343789
+      BoneDragon_54: 1661828389
+      BoneDragon_2: -436569689
+      BoneDragon_53: -712506931
+      BoneDragon_81: -164906811
+      BoneDragon_56: 746226595
+      BoneDragon_51: -420340077
+      BoneDragon_149: 1870556442
+      BoneDragon_112: 1493564764
+      BoneDragon_199: -1119941283
+      BoneDragon_286: 1850319375
+      BoneDragon_120: -1790412441
+      BoneDragon_141: 1240510036
+      BoneDragon_5: -1270043398
+      BoneDragon_240: 370147399
+      BoneDragon_182: 342387836
+      BoneDragon_223: 2083093228
+      BoneDragon_196: -1419067392
+      BoneDragon_70: 1067039659
+      BoneDragon_241: -16704608
+      BoneDragon_228: 1741645185
+      BoneDragon_250: 2046182846
+      BoneDragon_71: -2130903861
+      BoneDragon_249: 1871376905
+      BoneDragon_95: 1927860675
+      BoneDragon_314: -596765954
+      BoneDragon_32: -1941993897
+      BoneDragon_87: -2055361550
+      BoneDragon_195: -966755172
+      BoneDragon_307: -408695707
+      BoneDragon_107: 373747771
+      BoneDragon_185: -1470434687
+      BoneDragon_272: -2037310053
+      BoneDragon_217: -827775035
+      BoneDragon_280: -704271124
+      BoneDragon_8: 1600475119
+      BoneDragon_29: -351769783
+      BoneDragon_157: -1451117980
+      BoneDragon_19: -1109927408
+      BoneDragon_134: -969054140
+      BoneDragon_109: -2127666772
+      BoneDragon_133: -1729328099
+      BoneDragon_244: 644558020
+      BoneDragon_64: 94501861
+      BoneDragon_208: 1666278874
+      BoneDragon_213: 669977749
+      BoneDragon_60: 1414112890
+      BoneDragon_328: -449270183
+      BoneDragon_155: 2079244168
+      BoneDragon_204: 813003768
+      BoneDragon_226: 1901575537
+      BoneDragon_174: -220206459
+      BoneDragon_300: -1360754187
+      BoneDragon_273: -1958459191
+      BoneDragon_103: -1789615787
+      BoneDragon_10: -176550723
+      BoneDragon_83: -1282898151
+      BoneDragon_285: 2117355631
+      BoneDragon_145: 7300738
+      BoneDragon_117: 774406350
+      BoneDragon_36: 1126212434
+      BoneDragon_67: 1950917117
+      BoneDragon_295: 1007910966
+      BoneDragon_68: 1380028703
+      BoneDragon_261: -2112299683
+      BoneDragon_99: -1567936136
+      BoneDragon_221: 1003160743
+      BoneDragon_12: 799586307
+      BoneDragon_247: 1725380258
+      BoneDragon_319: -700793703
+      BoneDragon_52: -1123807933
+      BoneDragon_97: 1242598564
+      BoneDragon_11: 168322569
+      BoneDragon_122: -2000137406
+      BoneDragon_37: 1806719676
+      BoneDragon_209: -1022447242
+      BoneDragon_287: 1085236579
+      BoneDragon_136: -1556667758
+      BoneDragon_237: -1091422115
+      BoneDragon_163: 62747623
+      BoneDragon_260: -1771053581
+      BoneDragon_279: 179080810
+      BoneDragon_187: 648752076
+      BoneDragon_119: -2022891969
+      BoneDragon_268: 707594267
+      BoneDragon_125: -865412344
+      BoneDragon_266: 812933490
+      BoneDragon_323: -1759914597
+      BoneDragon_193: 595535634
+      BoneDragon_230: 467831778
+      BoneDragon_325: -1292765305
+      BoneDragon_246: 1354534375
+      BoneDragon_47: 1199211657
+      BoneDragon_239: 563739510
+      BoneDragon_321: -285282688
+      BoneDragon_263: -1565798218
+      BoneDragon_297: 1289408001
+      BoneDragon_72: -77877495
+      BoneDragon_3: -511865488
+      BoneDragon_207: -1919695774
+      BoneDragon_281: 1790745084
+      BoneDragon_20: -190363882
+      BoneDragon_6: -1291228659
+      BoneDragon_177: 1768555435
+      BoneDragon_183: 975235985
+      BoneDragon_317: 346342683
+      BoneDragon_248: -138339681
+      BoneDragon_46: 1058374389
+      BoneDragon_156: -224066817
+      BoneDragon_69: -844467074
+      BoneDragon_256: 430262193
+      BoneDragon_214: -1504035384
+      BoneDragon_170: 612284580
+      BoneDragon_80: 140928151
+      BoneDragon_73: -97024761
+      BoneDragon_151: 934199790
+      BoneDragon_176: 1026235163
+      BoneDragon_235: 640744925
+      BoneDragon_186: 1780369511
+      BoneDragon_100: 872007332
+      BoneDragon_146: -791974411
+      BoneDragon_102: -671861103
+      BoneDragon_173: -1147288647
+      BoneDragon_7: -12518137
+      BoneDragon_128: -1883864650
+      BoneDragon_269: 190571086
+      BoneDragon_242: -1746495400
+      BoneDragon_274: 451792884
+      BoneDragon_271: -1794964503
+      BoneDragon_315: -1498629651
+      BoneDragon_89: -439134999
+      BoneDragon_324: -1485249799
+      BoneDragon_282: 583507576
+      BoneDragon_291: 233369418
+      BoneDragon_48: 1920712129
+      BoneDragon_124: -385712272
+      BoneDragon_202: -242813620
+      BoneDragon_129: 2146669715
+      BoneDragon_276: -2104818921
+      BoneDragon_65: -1715185490
+      BoneDragon_127: -62727298
+      BoneDragon_191: -1477948667
+      BoneDragon_114: -1435621485
+      BoneDragon_93: 17045809
+      BoneDragon_194: 596764518
+      BoneDragon_277: 984864707
+      BoneDragon_74: 574820929
+      BoneDragon_303: 6850562
+      BoneDragon_294: -1335139988
+      BoneDragon_329: -1359026356
+      BoneDragon_45: 248492140
+      BoneDragon_121: 1500041892
+      BoneDragon_188: 740147450
+      BoneDragon_179: 1296310049
+      BoneDragon_92: 2111198314
+      BoneDragon_106: 469021327
+      BoneDragon_126: 1140750647
+      BoneDragon_42: -184688492
+      BoneDragon_197: 784549991
+      BoneDragon_130: 696148476
+      BoneDragon_25: 290517967
+      BoneDragon_255: 28191907
+      BoneDragon_131: -864247931
+      BoneDragon_200: -1525774172
+      BoneDragon_27: -1176740592
+      BoneDragon_77: 1397899327
+      BoneDragon_30: -344975126
+      BoneDragon_178: -1928147482
+      BoneDragon_289: 1521341616
+      BoneDragon_148: -327397829
+      BoneDragon_252: -801263978
+      BoneDragon_192: -1374593575
+      BoneDragon_309: 156271073
+      BoneDragon_318: -1206233651
+      BoneDragon_310: -1603823423
+      BoneDragon_14: -621150211
+      BoneDragon_22: -1961711412
+      BoneDragon_320: 1185212041
+      BoneDragon_28: 2100689922
+      BoneDragon_147: -457715018
+      BoneDragon_206: -105060587
+      BoneDragon_142: -332658640
+      BoneDragon_233: -352815061
+      BoneDragon_123: -1912382992
+      BoneDragon_301: 361225304
+      BoneDragon_218: -921835599
+      BoneDragon_152: -2122464964
+      BoneDragon_219: 120523338
+      BoneDragon_104: -2060832067
+      BoneDragon_1: -1256174994
+      BoneDragon_299: 995563955
+      BoneDragon_171: 1822952743
+      BoneDragon_21: 1942212108
+      BoneDragon_305: -623859797
+      BoneDragon_26: 1178620320
+      BoneDragon_31: -84655054
+      BoneDragon_172: -437889963
+      BoneDragon_15: 1217734988
+      BoneDragon_158: 610141314
+      BoneDragon_203: -1561201443
+      BoneDragon_190: 215777342
+      BoneDragon_298: 391722709
+      BoneDragon_211: -1343463328
+      BoneDragon_264: 1549843548
+      BoneDragon_35: 1963758069
+      BoneDragon_232: 332512854
+      BoneDragon_296: 1068645204
+      BoneDragon_98: 733691409
+      BoneDragon_9: -1467868524
+      BoneDragon_76: 1347257876
+      BoneDragon_257: 1869853116
+      BoneDragon_284: -16501102
+      BoneDragon_312: 2036574587
+      BoneDragon_88: -682440959
+      BoneDragon_33: -2043670242
+      BoneDragon_13: -466917827
+      BoneDragon_293: -1132281891
+      BoneDragon_63: 1390593991
+      BoneDragon_79: 1334041808
+      BoneDragon_113: -657378178
+      BoneDragon_184: -1915504493
+      BoneDragon_165: 1430176280
+      BoneDragon_43: 144610205
+      BoneDragon_139: -2137658341
+      BoneDragon_243: -1477790673
+      BoneDragon_262: 1266462133
+      BoneDragon_57: -6128190
+      BoneDragon_44: -977560284
+      BoneDragon_169: 52623491
+      BoneDragon_105: -77230359
+      BoneDragon_91: -1435196446
+      BoneDragon_40: 1478157802
+      BoneDragon_24: 1914002835
+      BoneDragon_259: 1123907892
+      BoneDragon_201: 1195450220
+      BoneDragon_140: 208411003
+      BoneDragon_265: 1169053351
+      BoneDragon_0: 104162074
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
